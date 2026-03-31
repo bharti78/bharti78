@@ -16,23 +16,28 @@
 
 ### Languages
 
-C | C++ | Java | Python | JavaScript | SQL
+C/C++ | Java | Python | JavaScript | TypeScript | PHP | SQL
 
 ### Frontend
 
-HTML | CSS | React | Next.js | Tailwind CSS
+React.js | Next.js | Tailwind CSS | Redux | Bootstrap
 
 ### Backend
 
-Node.js | Express.js
+Node.js | Express.js | Django | REST APIs
 
-### Database
+### Databases & Cloud
 
-MongoDB | MySQL
+MongoDB | MySQL | Firebase | AWS | Cloudinary
 
-### Tools & Platforms
+### AI / ML
 
-Git | GitHub | Vercel | Postman
+TensorFlow | Keras | Scikit-learn | Pandas | NumPy | NLP | Computer Vision
+
+### Tools & DevOps
+
+Git | GitHub | Postman | Docker | Kubernetes | GitHub Actions | Jenkins | Vercel | Render
+
 
 ## 📊 GitHub Stats
 
