@@ -38,9 +38,9 @@ TensorFlow | Keras | Scikit-learn | Pandas | NumPy | NLP | Computer Vision
 
 Git | GitHub | Postman | Docker | Kubernetes | GitHub Actions | Jenkins | Vercel | Render
 
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharti78\&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharti78&show_icons=true&theme=default" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharti78\&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharti78&layout=compact" />
+
