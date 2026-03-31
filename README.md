@@ -5,7 +5,7 @@
 * 🌱 Currently learning **Advanced MERN Stack and Cloud Technologies**
 * 💻 Working on **Full Stack Development Projects**
 * 🚀 Interested in **Backend Systems, APIs, and Scalable Applications**
-* 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at **[bhartidhote8@gmail.com](mailto:bhartidhote8@gmail.com)**
 
 ## 🌐 Connect with Me
 
@@ -36,6 +36,6 @@ Git | GitHub | Vercel | Postman
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bharti78\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharti78\&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharti78\&layout=compact)
