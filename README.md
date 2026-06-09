@@ -5,7 +5,8 @@
 * 🌱 Currently learning **Advanced MERN Stack and Cloud Technologies**
 * 💻 Working on **Full Stack Development Projects**
 * 🚀 Interested in **Backend Systems, APIs, and Scalable Applications**
-* 📫 Reach me at **[bhartidhote8@gmail.com](mailto:bhartidhote8@gmail.com)**
+* 📫 Reach me at **[bhartidhote8@gmail.com](mailto:bhartidhote8@gmail.com)** , **[bhartidhote158@gmail.com](mailto:bhartidhote8@gmail.com)**
+  
 
 ## 🌐 Connect with Me
 
